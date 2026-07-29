@@ -1,0 +1,113 @@
+Date: 2026-07-15
+Type: Rest Day
+
+Nutrition:
+- Breakfast: Oats with milk and banana
+- Lunch: Dal rice with salad
+- Dinner: Chicken curry with chapati
+
+Estimated Macros:
+- Calories: 1750
+- Protein: 98g
+- Carbs: 200g
+- Fat: 42g
+
+Notes: Rest day. Felt recovered. Slept 8 hours.
+
+---
+
+Date: 2026-07-16
+Type: Workout
+Muscles Trained: Back, Biceps
+
+Exercises:
+- Lat Pulldown: 55kg, 4 sets x 10 reps
+- Seated Cable Row: 50kg, 3 sets x 12 reps
+- Face Pulls: 20kg, 3 sets x 15 reps
+- Barbell Curl: 30kg, 3 sets x 10 reps
+- Hammer Curl: 14kg, 3 sets x 12 reps
+
+Nutrition:
+- Breakfast: 4 eggs, 2 toast, black coffee
+- Lunch: Chicken rice bowl
+- Snack: Greek yoghurt
+- Dinner: Paneer curry with rice
+
+Estimated Macros:
+- Calories: 2050
+- Protein: 148g
+- Carbs: 210g
+- Fat: 52g
+
+Notes: Strong pull session. Lat pulldown felt heavy but managed all reps.
+
+---
+
+Date: 2026-07-17
+Type: Workout
+Muscles Trained: Legs, Glutes
+
+Exercises:
+- Squat: 70kg, 4 sets x 8 reps
+- Romanian Deadlift: 60kg, 3 sets x 10 reps
+- Leg Press: 120kg, 3 sets x 12 reps
+- Leg Curl: 40kg, 3 sets x 12 reps
+- Calf Raises: 50kg, 4 sets x 15 reps
+
+Nutrition:
+- Breakfast: Oats with protein powder
+- Lunch: Rice with dal and chicken
+- Dinner: Egg fried rice
+
+Estimated Macros:
+- Calories: 2100
+- Protein: 140g
+- Carbs: 240g
+- Fat: 48g
+
+Notes: Legs day was brutal. Squats felt heavy. Need more sleep.
+
+---
+
+Date: 2026-07-18
+Type: Rest Day
+
+Nutrition:
+- Breakfast: Bread omelette
+- Lunch: Biryani
+- Dinner: Skipped
+
+Estimated Macros:
+- Calories: 1600
+- Protein: 85g
+- Carbs: 180g
+- Fat: 55g
+
+Notes: Tired today. Skipped dinner. Need to hit protein target better.
+
+---
+
+Date: 2026-07-19
+Type: Workout
+Muscles Trained: Chest, Shoulders, Triceps
+
+Exercises:
+- Bench Press: 65kg, 4 sets x 10 reps
+- Incline Dumbbell Press: 22kg, 3 sets x 12 reps
+- Overhead Press: 40kg, 3 sets x 10 reps
+- Lateral Raises: 10kg, 3 sets x 15 reps
+- Tricep Pushdown: 22kg, 3 sets x 12 reps
+
+Nutrition:
+- Breakfast: 4 eggs, toast
+- Lunch: Chicken rice bowl
+- Snack: Banana and peanut butter
+- Dinner: Dal with rice
+
+Estimated Macros:
+- Calories: 2000
+- Protein: 135g
+- Carbs: 220g
+- Fat: 50g
+
+Notes: Good push session. Bench press improved from 60kg to 65kg. Felt strong.
