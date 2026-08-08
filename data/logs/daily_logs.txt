@@ -111,3 +111,18 @@ Estimated Macros:
 - Fat: 50g
 
 Notes: Good push session. Bench press improved from 60kg to 65kg. Felt strong.
+
+---
+
+Date: 2026-08-02
+Type: Workout
+Muscles Trained: Chest
+
+Exercises:
+- Bench Press: 65kg, 4 sets x 10 reps
+- Incline Press: 22kg, 3 sets x 12 reps
+
+Nutrition:
+- Lunch: Chicken rice
+
+Estimated Macros:

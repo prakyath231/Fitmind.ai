@@ -9,6 +9,7 @@ const intentConfig = {
   PROGRESS: { label: "Progress Analysis", icon: "📈", color: "#a78bfa" },
   PLANNER: { label: "Weekly Planner", icon: "📅", color: "#f0a500" },
   GENERAL: { label: "Coach", icon: "💬", color: "#60a5fa" },
+  LOG: { label: "Saving your log...", icon: "💾", color: "#4ade80" },
 };
 
 const suggestions = [
